@@ -48,7 +48,7 @@
 
 ## 3、体系结构
 
-![体系结构](https://github.com/PanZ12580/Renting/tree/master/markdown_images\项目结构.png)
+![体系结构](https://github.com/PanZ12580/Renting/tree/master/markdown_images/项目结构.png)
 
 ## 4、运行效果
 
@@ -58,13 +58,13 @@
 
 ### 2）数据总览界面
 
-![数据总览界面](https://github.com/PanZ12580/Renting/tree/master/markdown_images\数据总览界面.png)
+![数据总览界面](https://github.com/PanZ12580/Renting/tree/master/markdown_images/数据总览界面.png)
 
 ### 3）基本情况分析
 
-![基本情况分析](https://github.com/PanZ12580/Renting/tree/master/markdown_images\基本情况分析.png)
+![基本情况分析](https://github.com/PanZ12580/Renting/tree/master/markdown_images/基本情况分析.png)
 
-![基本情况分析2](https://github.com/PanZ12580/Renting/tree/master/markdown_images\基本情况分析2.png)
+![基本情况分析2](https://github.com/PanZ12580/Renting/tree/master/markdown_images/基本情况分析2.png)
 
 ### 4）区域分析
 
@@ -80,17 +80,17 @@ Django项目中App中的views.py：
 
 以后可能会失效，请自行更换
 
-![区域分析1](https://github.com/PanZ12580/Renting/tree/master/markdown_images\区域分析1.png)
+![区域分析1](https://github.com/PanZ12580/Renting/tree/master/markdown_images/区域分析1.png)
 
-![区域分析2](https://github.com/PanZ12580/Renting/tree/master/markdown_images\区域分析2.png)
+![区域分析2](https://github.com/PanZ12580/Renting/tree/master/markdown_images/区域分析2.png)
 
 ### 5）价格分析
 
-![价格分析1](https://github.com/PanZ12580/Renting/tree/master/markdown_images\价格分析1.png)
+![价格分析1](https://github.com/PanZ12580/Renting/tree/master/markdown_images/价格分析1.png)
 
-![价格分析2](https://github.com/PanZ12580/Renting/tree/master/markdown_images\价格分析2.png)
+![价格分析2](https://github.com/PanZ12580/Renting/tree/master/markdown_images/价格分析2.png)
 
-![价格分析3](https://github.com/PanZ12580/Renting/tree/master/markdown_images\价格分析3.png)
+![价格分析3](https://github.com/PanZ12580/Renting/tree/master/markdown_images/价格分析3.png)
 
 # 二、Django项目
 
