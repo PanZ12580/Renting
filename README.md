@@ -48,23 +48,23 @@
 
 ## 3、体系结构
 
-![体系结构](markdown_images\项目结构.png)
+![体系结构](https://github.com/PanZ12580/Renting/tree/master/markdown_images\项目结构.png)
 
 ## 4、运行效果
 
 ### 1）登录界面
 
-![image-20200618031405046](markdown_images\image-20200618031405046.png)
+![image-20200618031405046](https://github.com/PanZ12580/Renting/tree/master/markdown_images\image-20200618031405046.png)
 
 ### 2）数据总览界面
 
-![数据总览界面](markdown_images\数据总览界面.png)
+![数据总览界面](https://github.com/PanZ12580/Renting/tree/master/markdown_images\数据总览界面.png)
 
 ### 3）基本情况分析
 
-![基本情况分析](markdown_images\基本情况分析.png)
+![基本情况分析](https://github.com/PanZ12580/Renting/tree/master/markdown_images\基本情况分析.png)
 
-![基本情况分析2](markdown_images\基本情况分析2.png)
+![基本情况分析2](https://github.com/PanZ12580/Renting/tree/master/markdown_images\基本情况分析2.png)
 
 ### 4）区域分析
 
@@ -72,25 +72,25 @@
 
 Vue项目中的index.html：
 
-![image-20200619120857758](markdown_images\image-20200619120857758.png)
+![image-20200619120857758](https://github.com/PanZ12580/Renting/tree/master/markdown_images\image-20200619120857758.png)
 
 Django项目中App中的views.py：
 
-![image-20200619121008956](markdown_images\image-20200619121008956.png)
+![image-20200619121008956](https://github.com/PanZ12580/Renting/tree/master/markdown_images\image-20200619121008956.png)
 
 以后可能会失效，请自行更换
 
-![区域分析1](markdown_images\区域分析1.png)
+![区域分析1](https://github.com/PanZ12580/Renting/tree/master/markdown_images\区域分析1.png)
 
-![区域分析2](markdown_images\区域分析2.png)
+![区域分析2](https://github.com/PanZ12580/Renting/tree/master/markdown_images\区域分析2.png)
 
 ### 5）价格分析
 
-![价格分析1](markdown_images\价格分析1.png)
+![价格分析1](https://github.com/PanZ12580/Renting/tree/master/markdown_images\价格分析1.png)
 
-![价格分析2](markdown_images\价格分析2.png)
+![价格分析2](https://github.com/PanZ12580/Renting/tree/master/markdown_images\价格分析2.png)
 
-![价格分析3](markdown_images\价格分析3.png)
+![价格分析3](https://github.com/PanZ12580/Renting/tree/master/markdown_images\价格分析3.png)
 
 # 二、Django项目
 
@@ -98,7 +98,7 @@ Django是我两天速成的。。。。大佬们看个笑话就好了。
 
 进入目录：
 
-![image-20200618031046997](markdown_images\image-20200618031046997.png)
+![image-20200618031046997](https://github.com/PanZ12580/Renting/tree/master/markdown_images\image-20200618031046997.png)
 
 首先需要导入数据库文件，直接通过
 
@@ -157,7 +157,7 @@ py manage.py runserver 8000
 
 在8000端口启动项目，然后在浏览器访问<http://127.0.0.1:8000>地址，就可以进入项目了：
 
-![image-20200618031405046](markdown_images\image-20200618031405046.png)
+![image-20200618031405046](https://github.com/PanZ12580/Renting/tree/master/markdown_images\image-20200618031405046.png)
 
 数据库中默认有可供登录的账号为：
 
@@ -174,7 +174,7 @@ id	username	password
 
 进入Scrapy项目中：
 
-![image-20200618032037788](markdown_images\image-20200618032037788.png)
+![image-20200618032037788](https://github.com/PanZ12580/Renting/tree/master/markdown_images\image-20200618032037788.png)
 
 文件夹中有两个scrapy项目，首先安装好依赖：
 
@@ -184,13 +184,13 @@ pip install -r requirements.txt
 
 然后分别进入到两个爬虫项目中：
 
-![image-20200618032131505](markdown_images\image-20200618032131505.png)
+![image-20200618032131505](https://github.com/PanZ12580/Renting/tree/master/markdown_images\image-20200618032131505.png)
 
 运行其中的running.py脚本即可。
 
 注意，运行前请先进入到项目中的项目文件夹中，打开`pipelines.py`文件，查看其数据库连接参数与自己机器上的是否一致：
 
-![image-20200618032801620](markdown_images\image-20200618032801620.png)
+![image-20200618032801620](https://github.com/PanZ12580/Renting/tree/master/markdown_images\image-20200618032801620.png)
 
 # 四、VUE项目（可选）
 
@@ -200,7 +200,7 @@ Vue的项目已经打包部署到Django环境中了，只是想让项目跑起�
 
 进入到Vue项目中：
 
-![image-20200618031523065](markdown_images\image-20200618031523065.png)
+![image-20200618031523065](https://github.com/PanZ12580/Renting/tree/master/markdown_images\image-20200618031523065.png)
 
 安装依赖
 
